@@ -1,5 +1,5 @@
 # Project X
-## Create branch from feature :p please
+## Create branch from feature (please)
 ## Features
 
 <dl>
