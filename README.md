@@ -1,7 +1,5 @@
 ### Project X
-<br>
 ## Pull from development
-<br>
 ## Features
 
 <dl>
