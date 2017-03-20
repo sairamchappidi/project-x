@@ -1,5 +1,5 @@
 # Project X
-## Pull from development
+## Create branch from feature (please)
 ## Features
 
 <dl>
